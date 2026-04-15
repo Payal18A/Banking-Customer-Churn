@@ -76,7 +76,7 @@ python your_file_name.py
 * Displays model accuracy in console.
 * Generates a full visualization dashboard for performance analysis.
 
-## 💡 Key Insights
+## Key Insights
 * ANN effectively predicts customer churn.
 * ROC-AUC provides deeper performance understanding beyond accuracy.
 * Visualization helps interpret model behavior clearly.
